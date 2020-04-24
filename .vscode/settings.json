@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "*.aux": true,
+        "*.bbl": true,
+        "*.blg": true,
+        "*.log": true,
+        "*.synctex.gz": true
+    }
+}
