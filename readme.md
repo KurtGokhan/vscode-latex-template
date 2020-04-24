@@ -1,4 +1,6 @@
-# LaTeX VSCode IEEE Template
+# LaTeX VSCode Template
+
+This is the empty template without any class. See `master` branch for IEEE template.
 
 ## Requirements
 
